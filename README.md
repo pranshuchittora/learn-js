@@ -1,2 +1,2 @@
 # js
-JS + Revel.js + Carbon-sh = 🔥📖
+JS + Reveal.js + Carbon-sh = 🔥📖
