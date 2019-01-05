@@ -1,7 +1,9 @@
 ## Hello World
 
 
-As JS is not a compiled language, running JS code just requires a browser.
+Running JS code is as simple as using Windows. 
+
+You just need a browser. (Firefox / Chrome recommended )
 <img class="imgLarge" src="/Resources/1/dev-tools.png"  />
 
 ```javascript
